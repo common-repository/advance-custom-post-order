@@ -1,0 +1,13 @@
+div#acporder_select_objects{ float: left; width: 40%; padding-right: 10px;}
+/*div#acporder_select_objects {padding-right: 10px;}*/
+div#acporder_select_objects table.form-table th{ text-align: center;}
+
+div#acporder_select_tags{width: 40%; display: inline-block;}	
+div#acporder_select_tags table.form-table th{ text-align: center;}
+div#acporder_select_tags table.form-table td{vertical-align: top;}
+
+div#acporder_select_objects table.form-table th, div#acporder_select_tags table.form-table th{font-weight: 700;}
+
+p.submit{width: 100%; float: right;}
+
+
